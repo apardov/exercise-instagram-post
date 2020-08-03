@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.header-left {
+    width: 50%;
+    height: 10%;
+    float: left;
+}
+
+.html5-icon {
+    width: 18%;
+    height: 80%;
+    padding: 10px 0 0 15px;
+    float: left;
+}
+
+.title-header-right {
+    width: 74%;
+    height: 98%;
+    float: right;
+}
+
+.title-header-right span {
+    font-size: 17px;
+}
+
+.header-right {
+    width: 50%;
+    height: 10%;
+    float: right;
+}
+
+.dot-right {
+    padding: 6px 15px 10px 172px;
+}
+
+.middle-img {
+    width: 100%;
+    height: 67%;
+}
+
+.middle-icons-left {
+    width: 46%;
+    height: 10%;
+    float: left;
+    padding: 0px 0px 0px 15px;
+}
+
+.middle-icons-left i {
+    padding: 3px;
+}
+
+.middle-icons-right {
+    width: 50%;
+    height: 10%;
+    float: right;
+}
+
+.middle-icons-right i {
+    padding: 0px 0px 10px 157px;
+}
+
+.footer-text {
+    padding: 6px;
+}
